@@ -1,0 +1,21 @@
+{
+  "cognito": {
+    "poolId": "us-east-1:8ac68463-d94c-4c7d-84c4-5cebee7bf95c"
+  },
+  "lex": {
+    "botName": "DslSupport",
+    "initialText": "You can get help for your DSL related problems. Just type \"I have an internet problem\" or click on the mic and say it.",
+    "initialSpeechInstruction": "Say 'Internet Problem' to get started."
+  },
+  "polly": {
+    "voiceId": "Salli"
+  },
+  "ui": {
+    "parentOrigin": "",
+    "toolbarTitle": "SMART DSL Support",
+    "toolbarColor": "blue"
+  },
+  "recorder": {
+    "preset": "speech_recognition"
+  }
+}
